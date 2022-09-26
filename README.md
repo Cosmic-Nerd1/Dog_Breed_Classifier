@@ -1,4 +1,4 @@
-# Dog_Breed_  Classifier
+# Dog_Breed_Classifier
 
 A Deep learning model used for deployment on an application.
 Model uses fastai library which in my opinion suits nicely for such models to train and test.
