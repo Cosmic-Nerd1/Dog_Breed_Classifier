@@ -5,7 +5,7 @@ Model uses fastai library which in my opinion suits nicely for such models to tr
 Also this uses fastBook where we could find many methods used here.
 We used duckduckgo.com browser here to carry out our images downloading for filling our database.
 
-This model deals with 6 breeds of dogs which most often a normal computer may get confused....
+This model deals with 6 breeds of dogs which most often a normal computer may get confused with....
 These are :
 
 1.Labrador Retriever
